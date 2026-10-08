@@ -1,0 +1,16 @@
+.nav{
+  transition: all 0.3s ease-in-out;
+  font-size: medium;
+}
+.nav:hover{
+    transform: scale(1.5);
+    color: #ff4400;
+    font-size:larger;
+}
+.log{
+  transition: all 0.3s ease-in-out;
+}
+.log:hover{
+  transform: scale(1.5);
+  color: rgb(255, 255, 255);
+}
